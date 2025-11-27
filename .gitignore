@@ -14,9 +14,6 @@ yarn-error.log*
 .env.local
 .env.*.local
 
-# Convex generated
-convex/_generated/
-
 # OS
 .DS_Store
 Thumbs.db
